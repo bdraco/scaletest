@@ -1,0 +1,5 @@
+start:
+  description: Start the Profiler
+  fields:
+    seconds: The number of seconds to run the profiler.
+
