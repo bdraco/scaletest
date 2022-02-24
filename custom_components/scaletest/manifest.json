@@ -1,5 +1,6 @@
 {
   "domain": "scaletest",
+  "version": "1.0.0",
   "name": "Scale Test",
   "config_flow": true,
   "documentation": "https://www.home-assistant.io/integrations/scaletest",
